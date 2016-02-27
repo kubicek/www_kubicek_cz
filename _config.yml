@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Jiří Kubíček
+email: jiri@kubicek.cz
+description: > # this means to ignore newlines until "baseurl:"
+  Jiří Kubíček je milovník historie Prahy 7, místopředseda pražského sdružení
+  Strany svobodných občanů a majitel společnosti KRAXNET.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://kubicek.cz" # the base hostname & protocol for your site
+twitter_username: kubicek
+github_username:  kubicek
+facebook_username:  kubicek.jiri
+
+# Build settings
+markdown: kramdown
