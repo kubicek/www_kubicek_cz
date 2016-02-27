@@ -23,4 +23,6 @@ Jsem velmi zvědav s jakou vizí Praha 7 přijde, zatím se mi zdá, že taková
 
 Prodáme alespoň se ztrátou nevyužívanou chatu v Janově nad Nisou? 34 lůžek, levně! Obecní zastupitelstva, nechcete převzít našeho černého Petra?
 
-Usnesení zastupitelstva http://www.praha7.cz/path/usn?l=1&idUsn=18532&dlOrgan=2
+Odkazy:
+
+* [Usnesení zastupitelstva](http://www.praha7.cz/path/usn?l=1&idUsn=18532&dlOrgan=2)
