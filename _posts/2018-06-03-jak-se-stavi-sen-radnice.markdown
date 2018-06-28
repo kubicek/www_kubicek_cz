@@ -16,7 +16,7 @@ Moc mě potěšilo, když jsem se v roce 2014 v programu volební strany Praha 7
 
 Přesně moje slova. Zůstat v nájmu nebo si najít nájem nový a šetřit na pěknou radnici v Bubnech.
 
-V říjnu 2015 ale přišla akce kulový blesk. Z čista jasna se vízězná Praha 7 SOBĚ rozhodla, že tlak ministerstva financí na vystěhování nebude řešit hledáním nového nájmu, jak slibovala, ani stavbou nové radnice na vlastním pozemku s architektonickou soutěží, jak jsem chápal znění otázek v referendu, ale nákupem staré skeletové budovy a její rekonstrukcí.
+V říjnu 2015 ale přišla akce kulový blesk. Z čista jasna se vítězná Praha 7 SOBĚ rozhodla, že tlak ministerstva financí na vystěhování nebude řešit hledáním nového nájmu, jak slibovala, ani stavbou nové radnice na vlastním pozemku s architektonickou soutěží, jak jsem chápal znění otázek v referendu, ale nákupem staré skeletové budovy a její rekonstrukcí.
 
 Akce byla tak rychlá, že se o ní nestihlo napsat ani v časopisu Hobulet. Během několika dní rada ustavila komisi, vybrala firmu, která provedla průzkum trhu, vypsali soutěž, vybrali dvě firmy, které porovnaly nabídnuté budovy a den po závěrečné zprávě komise nákup schválili. V Hobuletu tak stihli občany pouze informovat, že nákup proběhl.
 
@@ -26,9 +26,9 @@ V závěru článku Hobulet píše, že se snad za 20-30 let radnice v Bubnech d
 
 Když jsem se byl v té budově podívat, zhrozil jsem se jejím stavem. Dozvěděl jsem se ale, že je to normální, že životnost skeletových budov je 20-30 let, pak se musí vybourat a udělat znovu. Tak to vychází.
 
-Posudky na budovu byly dva. Jeden od firmy STON Management, ktera ohodnotila rekonstrukci ve vyšším standardu na 176 milionů korun a druhá firma Contractis v nižším standardu na 119 milionů korun. Celkem tedy 267 nebo 210 milionů korun. To je o něco víc, než radnice v Hobuletu slibovala, ale říkal jsem si, že se chlubí tím, jak jsou dobří hospodáři, že určitě ušetří.
+Posudky na budovu byly dva. Jeden od firmy STON Management, která ohodnotila rekonstrukci ve vyšším standardu na 176 milionů korun a druhá firma Contractis v nižším standardu na 119 milionů korun. Celkem tedy 267 nebo 210 milionů korun. To je o něco víc, než radnice v Hobuletu slibovala, ale říkal jsem si, že se chlubí tím, jak jsou dobří hospodáři, že určitě ušetří.
 
-Obě firmy také odhadhly celý proces na dva roky.
+Obě firmy také odhadly celý proces na dva roky.
 
 V září 2015 celá věc začala. Jak to vypadá skoro po třech letech?
 
