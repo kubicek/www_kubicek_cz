@@ -1,28 +1,18 @@
 ---
-layout: default
+title: Archiv článků
+layout: page
 ---
 
-<section id="profile" class="white-bg padding-top-bottom">
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li>
+    <span class="post-meta">{{ post.date | date: "%-d. %-m. %Y" }}</span>
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+  </li>
+  {% endfor %}
+</ul>
 
-<div class="container">
-
-  <h1 class="section-title">Články</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%-d. %-m. %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
-
-</section>
+<p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
