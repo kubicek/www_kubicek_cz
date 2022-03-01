@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jiří Kubíček
+title: Jiří Kubíček | zastupitel hlavního města Prahy
 email: jiri@kubicek.cz
 description: > # this means to ignore newlines until "baseurl:"
   Jiří Kubíček je milovník historie Prahy 7, člen zastupitelstva hlavního města Prahy,
