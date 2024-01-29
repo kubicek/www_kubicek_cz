@@ -133,6 +133,12 @@ collections:
   tabs:
     output: true
     sort_by: order
+  notes:
+    output: true
+    permalink: /notes/:slug
+  pages:
+    output: true
+    permalink: /:slug
 
 defaults:
   - scope:
@@ -145,6 +151,10 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: post
   - scope:
       path: _drafts
     values:
