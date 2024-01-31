@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Svobodní chtěli do superdebaty ČT"
-tags: [Svobodní, Politika]
+tags: [Svobodní, politika]
 permalink: /clanky/svobodni-chteli-do-superdebaty.html
 ---
 

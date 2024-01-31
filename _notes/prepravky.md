@@ -1,6 +1,6 @@
 ---
 title: Přepravky
-tags: [přepravky, KLT]
+tags: [přepravky, KLT, eurobox]
 ---
 
 Alternativní využití standardních přepravek:
