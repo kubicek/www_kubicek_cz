@@ -6,9 +6,7 @@ title: Notes
 no_toc: true
 ---
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Moje užitečné poznámky, digital garden, knowledge base ... 🌱
-</p>
+Moje užitečné poznámky, digital garden, knowledge base ... 🌱
 
 <strong>Naposledy aktualizováno:</strong>
 
@@ -20,3 +18,10 @@ no_toc: true
     </li>
   {% endfor %}
 </ul>
+
+{% comment %}
+<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+
+{% include notes_graph.html %}
+
+{% endcomment %}
