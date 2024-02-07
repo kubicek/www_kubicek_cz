@@ -17,8 +17,15 @@ slug: stirling
 |válec|cylinder|Zylinder(m)|
 |přehaněč|displacer|Verdränger(m)|
 |ložiško|bearing|Lager(n)|
+## Výroba pístu
 
+### Epoxidový píst
 
+* [How to make DIY simple epoxy putty power piston for Stirling engines](https://www.youtube.com/watch?v=rxna7W8yhVE)
+
+### Membrána
+
+* [Stirling Engine Piston - DIY Thermoforming Tutorial](https://www.youtube.com/watch?v=917DE9gyyus)
 ## Výpočet
 
 <https://stirlingengineforum.com/viewtopic.php?t=48>

@@ -25,23 +25,28 @@ nebo
 
 [Online kalulátor](https://caswellplating.com/720.html)
 
-Konstanty: 
+#### Konstanty
 - thickness = 1 mil
 - current density = 6A/ft2
 - 1 mm^2 = 1.07639104 × 10^-5 ft2
 
-Rovnice:
+#### Rovnice
+
 $$t(min) = 720 * mils / CD$$
+
 $$I(A) = CD*ft^2$$
-$$Upeak(V)=0.95ohm/ft2 / ft2 * I(A) $$
 
-Vzorový výpočet pro hranol 10x20x30mm
 
-* $$2*(10*20+10*30+20*30) = 2*(200+300+600) = 2*1100 = 2200mm^2 (= 0,021m^2)$$
-* $$2200mm^2 * 1,07639104 * 10^-5 = 0,02368 ft2$$
-* $$720 * 1 / 6 = 120 minut$$
-* $$0,02368 ft2 * 6A = 0,14208A$$
-* $$2.5 / 0,02368 * 0,14208 = 5.7V$$
+#### Vzorový výpočet pro hranol 10x20x30mm
+
+
+$$2*(10*20+10*30+20*30) = 2*(200+300+600) = 2*1100 = 2200mm^2 (= 0,021m^2)$$
+
+$$2200mm^2 * 1,07639104 * 10^-5 = 0,02368 ft2$$
+
+$$720 * 1 / 6 = 120 minut$$
+
+$$0,02368 ft2 * 6A = 0,14208A$$
 
 
 ### Rule 312
