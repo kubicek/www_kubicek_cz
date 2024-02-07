@@ -19,7 +19,7 @@ slug: stirling
 |ložiško|bearing|Lager(n)|
 
 
-## Výpočetstri
+## Výpočet
 
 <https://stirlingengineforum.com/viewtopic.php?t=48>
 
