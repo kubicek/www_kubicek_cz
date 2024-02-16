@@ -7,6 +7,8 @@ math: true
 ## Eloxování hliníku (aluminium anodizing)
 
 * [Eloxování hliníku, Miloš Hroch](http://www.astronom.cz/procyon/chemistry/elox.html)
+* [Eloxování hliníku, funchem.cz - shop chemie](https://www.funchem.cz/www-funchem-cz/eshop/14-1-POVRCHOVE-UPRAVY-KOVU/83-2-ELOXOVANI-HLINIKU)
+* [Eloxieren, tifoo.de - shop chemie a barvy](https://www.tifoo.de/eloxieren-shop)
 * [GALVANOVNA DOMA, Eloxování hliníku doma, ukázka návod Small Aluminium Anodising, PRVNÍ DÍL](https://www.youtube.com/watch?v=9OlfNybD6As)
 * [GALVANOVNA DOMA, Eloxování hliníku doma, ukázka návod, DIY Anodized platig. DRUHÝ DÍL](https://www.youtube.com/watch?v=uBDK7WpW--A)
 * [Small Scale Aluminium Anodising in the Home Workshop](https://www.youtube.com/watch?v=L2RKze7baJw)

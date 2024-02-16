@@ -17,6 +17,7 @@ slug: stirling
 |válec|cylinder|Zylinder(m)|
 |přehaněč|displacer|Verdränger(m)|
 |ložiško|bearing|Lager(n)|
+
 ## Výroba pístu
 
 ### Epoxidový píst
