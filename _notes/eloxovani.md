@@ -1,6 +1,7 @@
 ---
-title: Hliník
+title: Eloxování hliníku
 tags: [hliník, al, aluminium, eloxování, anodizing]
+slug: eloxovani
 math: true
 ---
 
