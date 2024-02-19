@@ -59,12 +59,16 @@ $$0,02368 ft2 * 6A = 0,14208A$$
 
 ### Postup
 
-1. Důkladné očištění a odmaštění - aceton, alkohol, ultrazvuková čistička
-2. Moření v louhu (etching) - 20 sekund
-3. Opláchnutí
-4. (Vyjasnění)
-5. Opláchnutí
-6. Anodizace v kyselině sírové
-7. Opláchnutí / neutralizace v sodě
-8. Barvení
-9. Uzavření povrchu (sealing)
+1.  Důkladné očištění a odmaštění - aceton, alkohol, ultrazvuková čistička
+2.  Moření v louhu (etching) - 20 sekund
+3.  Opláchnutí
+4.  (Vyjasnění)
+5.  Opláchnutí
+6.  Anodizace v kyselině sírové
+7.  Opláchnutí
+8.  Neutralizace v jedlé sodě
+9.  Opláchnutí
+10. Barvení
+11. Opláchnutí
+12. Uzavření povrchu (sealing)
+13. Sušení horkým vzduchem
